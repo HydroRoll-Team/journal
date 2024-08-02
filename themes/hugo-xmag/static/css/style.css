@@ -17,8 +17,8 @@ main { margin-bottom: 15px; }
 
 /* header and footer areas */
 .header {
-  border-top: 5px solid #666;
-  border-bottom: 4px double #666;
+  border-top: 5px solid #313c6710;
+  border-bottom: 4px double #313c6710;
   text-align: center;
   padding: 15px 0 5px;
 }
@@ -65,7 +65,7 @@ main { margin-bottom: 15px; }
   font-size: .9em;
   font-weight: bolder;
   text-transform: uppercase;
-  color: #666;
+  color: #313c6710;
 }
 h1 a:hover { text-decoration: underline; }
 .article-list h1 { margin: .2em auto .2em 0; }
@@ -85,7 +85,7 @@ article { padding: 1em; }
 .pagination li, .terms li { display: inline; }
 .pagination a { padding: 0 .2em; }
 .footer {
-  background: #666;
+  background: #313c6710;
   padding: 1em 0;
 }
 .footer, .footer a { color: #fff; }
@@ -132,8 +132,8 @@ blockquote {
 
 table {
   margin: 1em auto auto;
-  border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
+  border-top: 1px solid #313c6710;
+  border-bottom: 1px solid #313c6710;
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
@@ -145,7 +145,7 @@ tr:nth-child(even) { background: #eee }
   float: left;
   overflow: hidden;
   margin: 5px 8px 5px 0;
-  box-shadow: 0 0 8px #666;
+  box-shadow: 0 0 8px #313c6710;
 }
 .thumbnail img {
   width: 100%;
