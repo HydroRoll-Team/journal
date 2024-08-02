@@ -1,12 +1,12 @@
-name = "XMag"
+name = "Journal"
 license = "MIT"
-licenselink = "https://github.com/yihui/hugo-xmag/blob/master/LICENSE.md"
+# licenselink = "https://github.com/yihui/hugo-xmag/blob/master/LICENSE.md"
 description = "A minimal magazine theme for Hugo"
-homepage = "https://xmag.yihui.org"
+homepage = "https://journal.hydroroll.team"
 tags = ["minimal", "magazine", "clean", "simple", "minimalist", "blog", "responsive", "Google Analytics", "Syntax Highlighting"]
 features = ["blog", "magazine"]
 min_version = "0.18"
 
 [author]
-  name = "Yihui Xie"
-  homepage = "https://yihui.org"
+  name = "HydroRoll-Team"
+  homepage = "https://hydroroll.team"

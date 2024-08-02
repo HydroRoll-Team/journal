@@ -1,6 +1,6 @@
 baseurl: "/"
-languageCode: "en-us"
-title: "Hugo XMag"
+languageCode: "zh-cn"
+title: "Journals Of HydroRoll"
 theme: "hugo-xmag"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
@@ -14,30 +14,41 @@ permalinks:
 
 menu:
   main:
-    - name: Home
-      url: ""
-      weight: 1
-    - name: About
+    - name: 关于
       url: about/
       weight: 2
-    - name: Categories
-      url: categories/
-      weight: 3
-    - name: Tags
-      url: tags/
-      weight: 4
-    - name: Subscribe
-      url: index.xml
+    - name: 论坛
+      url: https://disscussion.hydroroll.team/
+      weight: 5
+    - name: 文章
+      url: articles/
+      weight: 6
+    - name: 会议
+      url: https://deadlines.hydroroll.team/
+      weight: 7
+    - name: 出版
+      url: https://pub.hydroroll.team/
+      weight: 8
+    - name: 成员
+      url: people/
+      weight: 9
+    - name: 捐赠
+      url: donate/
+      weight: 10
+    - name: 搜索
+      url: search/
+      weight: 11
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 - 2023 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
-  github_edit: "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
+  description: "Journals of HydroRoll Team."
+  footer: "&copy; [HydroRoll-Team](https://hydroroll.team) 2023 - 2024 | [Github](https://github.com/HydroRoll-Team) | [RSS](./index.xml)"
+  github_edit: "https://github.com/HydroRoll-Team/journal/edit/main/content/"
   summary_length: 300
   text:
     back: "&larr; Back to Home"
     edit: "Edit this page &rarr;"
     truncated: "&hellip;"
+    banner: '/images/logo.png'
 
 markup:
   highlight:
