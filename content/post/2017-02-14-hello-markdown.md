@@ -1,18 +1,14 @@
 ---
 title: A Plain Markdown Post
 author:
-  - Yihui Xie
-  - Frida Gomam
-date: '2017-02-14'
+  - 简律纯
+date: '2024-08-02'
 categories:
   - Example
-  - Hugo
 tags:
   - blogdown
   - Markdown
   - MathJax
-  - Pandoc
-  - RStudio
 toc: true
 ---
 

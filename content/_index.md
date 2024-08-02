@@ -1,3 +1,3 @@
 ---
-title: Hugo XMag
+title: 水系期刊
 ---
